@@ -1,0 +1,35 @@
+
+ipo_data特征说明：
+
+1、Date：日期
+2、Issuer：发行者
+3、Symbol：代码
+4、Lead/Joint-Lead  Managers：主承销/联席主承销
+5、Offer Price：发行价
+6、Opening Price：开盘价
+7、1st Day Close：首日收盘价
+8、1st Day % Px Chng：首日价格变化比例 = (首日收盘价 - 发行价) / 发行价
+9、$ Change Opening：开盘价与发行价相比的变化 = 开盘价 - 发行价
+10、$ Change Close：收盘价与发行价相比的变化 = 收盘价 - 发行价
+11、Star Ratings：评级
+12、Performed：成交
+
+spy特征说明：
+
+1、Date：日期
+2、Open：开盘
+3、High：最高
+4、Low：最低
+5、Close：收盘
+6、Volume：成交量
+7、Adj Close：调整收盘价
+
+
+
+
+
+
+
+
+
+
